@@ -1,4 +1,8 @@
-przepis na naprawe głownego brenchu
+﻿przepis na naprawe głownego brenchu
 a
 b
 c
+d
+e
+f
+zmiana lokalna
